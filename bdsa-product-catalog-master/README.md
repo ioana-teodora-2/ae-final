@@ -3,11 +3,11 @@
 # git clone
 
 ```bash
-git clone https://github.com/eduardbudacu/bdsa-product-catalog.git
+git clone https://github.com/ioana-teodora-2/ae-final.git
 ```
 
 ```bash
-cd bdsa-product-catalog
+cd ae-final/bdsa-product-catalog-master
 ```
 
 ```bash
@@ -25,7 +25,7 @@ mysql -u root
 ```
 
 ```sql
-source ~/workspace/bdsa-product-catalog/sql/catalog.sql
+source ~/workspace/bdsa-product-catalog-master/sql/catalog.sql
 ```
 
 ```sql
